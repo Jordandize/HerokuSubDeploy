@@ -1,1 +1,1 @@
-web: java -jar HerokuDeploy/target/herokuDeploy-back-1.0.0.jar
+web: java -jar HerokuDeploy/target/herokuDeploy-back-0.0.1.jar
