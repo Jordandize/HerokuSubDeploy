@@ -1,0 +1,1 @@
+web: java -jar HerokuDeploy/target/myapp-1.0.0.jar
