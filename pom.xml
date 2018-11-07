@@ -11,7 +11,11 @@
 	<name>HerokuDeploy</name>
 	<description>d</description>
 
+  <profiles>
+    <profile>
    <modules>
     <module>herokuDeploy</module>
    </modules>
+       </profile>
+</profiles>
 </project>
