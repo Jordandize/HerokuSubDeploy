@@ -25,8 +25,17 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
-		</dependency>
+
+      </dependency>
+      
+      <dependency>
+    <groupId>ua.edu.ukma.deploy</groupId>
+    <artifactId>herokuDeploy-fron</artifactId>
+    <version>${project.parent.version}</version>
+</dependency>
 	</dependencies>
+  
+  
 
 	<build>
 		<plugins>

@@ -6,9 +6,9 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class SimpleController {
 	
-	@GetMapping("/")
+	@GetMapping("/api")
 	public String index() {
-		return "Index";
+		return "Api";
 	}
 
 }
